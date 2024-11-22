@@ -1,29 +1,30 @@
 @import "node_modules/ol/ol.css";
 
-html, body {
+html,
+body {
   margin: 0;
   height: 100%;
 }
+
 #map {
   position: absolute;
   top: 0;
   bottom: 0;
   width: 100%;
 }
+
 #zoomRoma {
-    position: absolute; 
-    top: 60px;
-    left: 5 px;
-    background-color: #f2f7fb; 
-    color: rgb(39, 21, 21); 
-    border: none; 
-    padding: 8px 12px; 
-    border-radius: 4px; 
-    
+  position: absolute;
+  top: 60px;
+  left: 5 px;
+  background-color: #f2f7fb;
+  color: rgb(39, 21, 21);
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+
 }
 
 #zoomRoma:hover {
-    background-color: #7b8c9a; 
+  background-color: #7b8c9a;
 }
-
-
