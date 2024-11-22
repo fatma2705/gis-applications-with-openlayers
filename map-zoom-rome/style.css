@@ -10,3 +10,18 @@ html, body {
   bottom: 0;
   width: 100%;
 }
+#zoomToRome {
+    position: absolute; 
+    top: 60px;
+    left: 5 px;
+    background-color: #f2f7fb; 
+    color: rgb(39, 21, 21); 
+    border: none; 
+    padding: 8px 12px; 
+    border-radius: 4px; 
+    
+}
+
+#zoomToRome:hover {
+    background-color: #7b8c9a; 
+}
