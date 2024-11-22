@@ -10,7 +10,7 @@ html, body {
   bottom: 0;
   width: 100%;
 }
-#zoomToRome {
+#zoomRoma {
     position: absolute; 
     top: 60px;
     left: 5 px;
@@ -22,6 +22,8 @@ html, body {
     
 }
 
-#zoomToRome:hover {
+#zoomRoma:hover {
     background-color: #7b8c9a; 
 }
+
+
